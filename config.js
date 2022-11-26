@@ -14,7 +14,7 @@ global.BotName = "Maybos"
 global.packname = "Miku bot"
 global.author = "By: Maybos md"
 global.OwnerName = "Hassan HY"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.BotSourceCode = "https://github.com/Prince-Mendiratta/BotsApp"
 global.SupportGroupLink = "https://chat.whatsapp.com/Lw4Ue7PQkyGAImWIuzU9ds"
 global.sessionName = "session"
 
